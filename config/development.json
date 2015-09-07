@@ -1,0 +1,9 @@
+{
+  "dbURI": "mongodb://localhost/meanie",
+  "siteName": "MEANie stack",
+  "bind": 3000,
+  "session": {
+    "name": "meanie",
+    "key": "correct horse battery staple"
+  }
+}
